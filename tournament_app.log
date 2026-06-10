@@ -1,0 +1,12 @@
+[2026-06-10 20:15:31,669] - [INFO] - User viewed the match list.
+[2026-06-10 20:15:44,324] - [INFO] - Match a added successfully
+[2026-06-10 20:15:56,808] - [WARNING] - User tried to update non-existing match f
+[2026-06-10 20:16:14,450] - [WARNING] - User tried to update non-existing match 3
+[2026-06-10 20:16:35,127] - [ERROR] - Invalid score input. Error: invalid literal for int() with base 10: 'a'
+[2026-06-10 20:16:35,935] - [ERROR] - Invalid score input. Error: invalid literal for int() with base 10: 'a'
+[2026-06-10 20:16:38,687] - [INFO] - Match a score updated successfully
+[2026-06-10 20:16:41,339] - [INFO] - User viewed the match list.
+[2026-06-10 20:16:49,981] - [INFO] - User generated tournament report.
+[2026-06-10 21:10:54,643] - [INFO] - User viewed the match list.
+[2026-06-10 21:11:10,830] - [INFO] - System closed.
+[2026-06-10 21:11:10,842] - [ERROR] - Missing key: 'score_a'
